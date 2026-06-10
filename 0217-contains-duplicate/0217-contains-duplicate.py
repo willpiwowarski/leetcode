@@ -13,3 +13,6 @@ class Solution(object):
             hashset.add(number)
 
         return False        
+
+#Time complexity: O(n)
+#Space complexity: O(n)
