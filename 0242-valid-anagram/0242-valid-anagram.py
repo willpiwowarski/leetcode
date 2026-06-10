@@ -16,3 +16,6 @@ class Solution(object):
             if countS[c] != countT.get(c, 0):
                 return False
         return True
+
+#Time complexity: O(n)
+#Space complexity: O(n)
