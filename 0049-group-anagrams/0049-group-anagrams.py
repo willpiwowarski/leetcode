@@ -13,3 +13,6 @@ class Solution(object):
             result[tuple(count)].append(s)
 
         return list(result.values())
+
+O(n*m)
+O(n*m)
