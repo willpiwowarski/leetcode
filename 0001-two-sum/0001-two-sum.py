@@ -13,3 +13,6 @@ class Solution(object):
             if diff in prevMap:
                 return [prevMap[diff], i]
             prevMap[n] = i
+
+#O(n)
+#O(n)
